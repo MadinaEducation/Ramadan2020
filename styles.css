@@ -2,9 +2,14 @@
 
 body{
     background-color: azure;
-    color: rgb(105, 105, 196);
+    margin: 10px;
+    padding: 10px;   
 }
 
 header{
-    border-radius: 10%;
+    border-radius: 10px;
+    padding: 5px;
+    background-color:  rgb(50, 73, 114);
+    color: white;
+    text-align: center;
 }
